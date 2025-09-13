@@ -47,7 +47,7 @@ hello-ext/                # Pasta raiz do projeto
 ## 🌐 Landing Page
 
 Acesse a landing page do projeto pelo GitHub Pages:
-👉 ******
+👉 https://leonardo1santos.github.io/BOOTCAMP/
 
 ## 📜 Licença
 
