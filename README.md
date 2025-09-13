@@ -54,7 +54,7 @@ Acesse a landing page do projeto pelo GitHub Pages:
 Distribuído sob a licença MIT.
 Você pode usar, copiar, modificar e distribuir este projeto livremente, desde que mantenha os créditos originais.
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 Nome: Leonardo Santos
 
