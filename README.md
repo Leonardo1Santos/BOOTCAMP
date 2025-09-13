@@ -8,7 +8,7 @@ O objetivo é demonstrar o funcionamento básico de uma extensão com popup simp
 ## 📦 Instalação
 
 ### Instalação manual (modo desenvolvedor)
-1. Baixe o código-fonte deste repositório ou a versão empacotada [clicando aqui](https://github.com/Leonardo1Santos/BOOTCAMP/blob/main/hello-ext/hello-ext.zip.
+1. Baixe a última versão [clicando aqui](https://github.com/Leonardo1Santos/BOOTCAMP/blob/main/hello-ext/hello-ext.zip).
 2. Extraia o `.zip` em uma pasta local.
 3. Abra o Google Chrome e acesse:
 
